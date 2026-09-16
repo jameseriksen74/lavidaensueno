@@ -1,0 +1,15 @@
+# La Vida En Sueño
+
+Dating platform connecting Latin American and Caribbean singles with people in the US and EU.
+
+## Stack
+Next.js 14 (App Router) · React 18 · TypeScript · Tailwind CSS
+
+## Develop
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+Deployed with Coolify (Nixpacks). Build: `npm run build`, start: `npm start` (listens on `$PORT`, default 3000).
