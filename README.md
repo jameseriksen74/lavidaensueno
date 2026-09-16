@@ -12,4 +12,6 @@ npm run dev
 ```
 
 ## Deploy
-Deployed with Coolify (Nixpacks). Build: `npm run build`, start: `npm start` (listens on `$PORT`, default 3000).
+Live at https://lavidaensueno.com. Hosted on Coolify (Railpack build). Build: `npm run build`, start: `npm start` (listens on `$PORT`, default 3000).
+
+Every push to `main` deploys automatically via a GitHub webhook to Coolify.
